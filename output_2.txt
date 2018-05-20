@@ -1,0 +1,1 @@
+This is a test boooooooop of exit status - after open this fa shell command.
