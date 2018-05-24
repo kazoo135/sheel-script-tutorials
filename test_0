@@ -1,1 +1,7 @@
 This is a test file 0
+I really don't know what I am appending to but I am giving it a go
+So now I think I will write a second line
+This is the second test of this append_text script - so I am writing some
+more gibberish and some more.
+Ok, now I see - I though i was not getting echo statements before the appending part but I was just not reading the output correctly.
+It is working firn.
